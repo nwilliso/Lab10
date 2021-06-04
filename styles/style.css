@@ -156,3 +156,11 @@ body.single-entry main {
   width: 100%;
 }
 /* Feature Flag End - Double Column */
+
+.blue {
+  background-color: skyblue;
+}
+
+.blue header{
+  background-color: rgb(40, 127, 161);
+}
